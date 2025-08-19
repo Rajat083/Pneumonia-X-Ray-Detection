@@ -4,11 +4,11 @@ This project implements a Convolutional Neural Network (CNN) to detect Pneumonia
 
 # 📌 Project Structure
 .
-├── Images/                     # Images regarding the Model
-├── Models/                     # Saved trained models (H5/Checkpoint files)
-├── helper_functions.py         # Utility functions for data loading, preprocessing, and visualization
-├── pneumonia_detection.ipynb   # Main Jupyter Notebook (training + evaluation)
-└── README.md                   # Project documentation
+├── Images/                     # Images regarding the Model \n
+├── Models/                     # Saved trained models (H5/Checkpoint files) \n
+├── helper_functions.py         # Utility functions for data loading, preprocessing, and visualization \n
+├── pneumonia_detection.ipynb   # Main Jupyter Notebook (training + evaluation) \n
+└── README.md                   # Project documentation \n
 
 # 
 # 📂 Dataset
