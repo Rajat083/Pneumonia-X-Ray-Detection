@@ -48,11 +48,13 @@ The trained model is saved in the ./Models/ directory.
 ## The following figures illustrate the model performance:
 
 🔹 **Sample X-ray Images**
+
 ![alt text](<Images/Screenshot from 2025-08-19 19-43-25.png>)
 ![alt text](<Images/Screenshot from 2025-08-19 19-43-36.png>)
 ![alt text](<Images/Screenshot from 2025-08-19 19-43-43.png>)
 ![alt text](<Images/Screenshot from 2025-08-19 19-43-48.png>)
 ![alt text](<Images/Screenshot from 2025-08-19 19-43-48.png>)
+
 🔹 **Confusion Matrix**
 
 ![alt text](<Images/Screenshot from 2025-08-19 19-41-45.png>)
@@ -85,7 +87,7 @@ Future improvements: transfer learning (VGG16, ResNet), explainable AI (Grad-CAM
 **Percision** : 0.82
 **Recall** : 0.75
 
-**Classification Report**    **precision**    **recall**  **f1-score**   **support**
+**Classification Report**    precision    recall  f1-score  support
 
     BACTERIAL_PNEUMONIA       0.85      0.85      0.85        242
 
