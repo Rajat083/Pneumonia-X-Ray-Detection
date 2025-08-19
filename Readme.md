@@ -88,7 +88,7 @@ Future improvements: transfer learning (VGG16, ResNet), explainable AI (Grad-CAM
 **Recall** : 0.75
 
 **Classification Report**         
-                            precision   recall   f1-score   support
+                 Report     precision   recall   f1-score   support
 
     BACTERIAL_PNEUMONIA       0.85      0.85      0.85        242
 
@@ -107,17 +107,22 @@ Future improvements: transfer learning (VGG16, ResNet), explainable AI (Grad-CAM
 # 🚀 How to Run
 
 Clone the repository:
-
+```
 git clone https://github.com/Rajat083/Pneumonia-X-Ray-Detection.git
 cd pneumonia-detection
+```
 
 Install dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 Run the Jupyter notebook:
 
+```
 jupyter notebook pneumonia_detection.ipynb
+```
 # 📚 References
 
 Kaggle: Chest X-Ray Images (Pneumonia)
