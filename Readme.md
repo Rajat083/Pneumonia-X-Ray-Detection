@@ -4,11 +4,18 @@ This project implements a Convolutional Neural Network (CNN) to detect Pneumonia
 
 # 📌 Project Structure
 
+Root:
+
 Images/                        # Images regarding Model
+
 Models/                        # Saved Model
+
 helper_functions.py
+
 pneumonia_detection.ipynb
+
 Readme.md
+
 requirements.txt
 
 # 
