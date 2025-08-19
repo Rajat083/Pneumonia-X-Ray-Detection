@@ -3,12 +3,13 @@
 This project implements a Convolutional Neural Network (CNN) to detect Pneumonia from chest X-ray images. The model is trained and evaluated on the publicly available Chest X-Ray Images (Pneumonia) dataset from Kaggle.
 
 # 📌 Project Structure
-.
-├── Images/                     # Images regarding the Model \n
-├── Models/                     # Saved trained models (H5/Checkpoint files) \n
-├── helper_functions.py         # Utility functions for data loading, preprocessing, and visualization \n
-├── pneumonia_detection.ipynb   # Main Jupyter Notebook (training + evaluation) \n
-└── README.md                   # Project documentation \n
+
+Images/                        # Images regarding Model
+Models/                        # Saved Model
+helper_functions.py
+pneumonia_detection.ipynb
+Readme.md
+requirements.txt
 
 # 
 # 📂 Dataset
