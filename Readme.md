@@ -87,7 +87,8 @@ Future improvements: transfer learning (VGG16, ResNet), explainable AI (Grad-CAM
 **Percision** : 0.82
 **Recall** : 0.75
 
-**Classification Report**         precision        recall      f1-score      support
+**Classification Report**         
+                            precision   recall   f1-score   support
 
     BACTERIAL_PNEUMONIA       0.85      0.85      0.85        242
 
