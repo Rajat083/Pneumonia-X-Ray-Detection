@@ -90,6 +90,7 @@ The CNN model demonstrates strong performance in detecting pneumonia from chest 
 High recall ensures fewer missed pneumonia cases, which is crucial in medical diagnosis.
 
 Future improvements: transfer learning (VGG16, ResNet), explainable AI (Grad-CAM), and larger datasets.
+Results:
 
 **Accuracy** : 79.5 %  Test accuracy
 **Percision** : 0.82
